@@ -407,6 +407,7 @@ IT [asset management](https://en.wikipedia.org/wiki/Asset_management) software.
 - [RackTables](https://racktables.org/) - Datacenter and server room asset management like document hardware assets, network addresses, space in racks, networks configuration. ([Demo](https://www.racktables.org/demo.php), [Source Code](https://github.com/RackTables/racktables)) `GPL-2.0` `PHP`
 - [Ralph](https://ralph.allegro.tech/) - Asset management, DCIM and CMDB system for large Data Centers as well as smaller LAN networks. ([Demo](https://github.com/allegro/ralph#live-demo), [Source Code](https://github.com/allegro/ralph)) `Apache-2.0` `Python/Docker`
 - [Snipe IT](https://snipeitapp.com/) - Asset & license management software. ([Source Code](https://github.com/snipe/snipe-it)) `AGPL-3.0` `PHP`
+- [OpenUEM](https://openuem.eu) - Keep an inventory of your IT assets, deploy software, apply configurations and offer remote assistance from a clean and concise UI. ([Source Code](https://github.com/open-uem)) `Apache-2.0` `Go`
 
 
 ### Log Management
